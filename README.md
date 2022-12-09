@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Trekmate**
 
-- 🤝 I’m looking for help with **Dot Net Project**
+- 🤝 I’m looking for help with ** Mobile Development (Android and IOS) & Data Science **
 
-- 📝 I regularly write articles on [mrprameshbhattarai.wordpress.com](mrprameshbhattarai.wordpress.com)
+- 📝 I regularly write articles on [prameshbhattarai.wordpress.com](prameshbhattarai.wordpress.com)
 
 - 💬 Ask me about **Dot Net**
 
