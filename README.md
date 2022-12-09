@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with ** Mobile Development (Android and IOS) & Data Science **
 
-- 📝 I regularly write articles on [prameshbhattarai.wordpress.com](prameshbhattarai.wordpress.com)
+- 📝 I regularly write articles on [prameshbhattaraiofficial.wordpress.com](prameshbhattaraiofficial.wordpress.com)
 
 - 💬 Ask me about **Dot Net**
 
